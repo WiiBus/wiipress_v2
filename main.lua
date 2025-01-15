@@ -1,5 +1,5 @@
 -- Chemin vers le script shell
-local shell_script = "/www/authenticate-requests-v2/main.sh"
+local shell_script = "/www/wiipress/main.sh"
 
 -- Fonction pour exécuter le script shell
 local function execute_shell(script)
